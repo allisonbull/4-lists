@@ -9,4 +9,8 @@ html{
 }
 .nav {
     list-style-type: none;
+    background-color:rgb(232, 98, 98);
+    padding: 30px;
+
+    margin-bottom: 100px;
 }
